@@ -18,4 +18,8 @@ class NuevaCosaSubida {
     function saludo2(){
         echo "holas a todos creo que al fin da el repositorio";
     }
+    //este es un nuevo metodo para ver como marca lo nuevo de un repositorio
+    function saludo3(){
+        echo "saludo 3 fue creado";
+    }
 }
